@@ -6,6 +6,13 @@
 *Unit Test script using JUnit Framework
 *A build script integrated with Unit Test using Anit build tool(line 1204)
 *...
+
+### Screen-shots
+
+![Build porcess with Ant]()
+
+![DDT source code with JUnit]() 
+
 #### Connect me via tienst2002@gmail.com
 
 #### Copyright &#169; Terry
