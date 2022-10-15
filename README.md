@@ -9,9 +9,9 @@
 
 ### Screen-shots
 
-![Build porcess with Ant]()
+![Build porcess with Ant](https://github.com/Terry2002/math-util-ant-se1609/blob/main/screen-shots/build-process-with-ant.png)
 
-![DDT source code with JUnit]() 
+![DDT source code with JUnit](https://github.com/Terry2002/math-util-ant-se1609/blob/main/screen-shots/ddt-source-using-JUnit.png) 
 
 #### Connect me via tienst2002@gmail.com
 
